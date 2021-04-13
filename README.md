@@ -16,3 +16,5 @@ docker build -t "member-service:0.0.1" .
 
 # Run Image
 docker run -it -p8091:8091 member-service:0.0.1
+
+![alt text](clean-architecture.png "Service Architecture")
