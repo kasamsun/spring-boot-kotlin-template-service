@@ -36,6 +36,6 @@ class TestController {
     @RequestMapping("/hello")
     @ResponseBody
     fun hello(): String {
-        return "Hello World"
+        return "Hello Staff service"
     }
 }
